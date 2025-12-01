@@ -35,14 +35,6 @@ The model leverages **encoder–decoder architecture** with skip connections and
 Explore the training and evaluation notebook on Kaggle:
 👉 [Flood Segmentation using Attention U-Net (Kaggle)](https://www.kaggle.com/code/k214744nizamuldin/unet-flood-segmentation)
 
-## 🖼️ Example Results
-
-(Add a few sample segmentation result images here once you upload them.)
-
-## 💡 Future Work
-
-* Integration with real-time satellite feeds
-* Expansion to other disaster types (e.g., landslides, drought)
 * Dashboard for visual analytics and temporal flood tracking
 
 
